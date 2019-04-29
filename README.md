@@ -1,1 +1,1 @@
-# quintype
+# Quintype
