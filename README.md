@@ -16,3 +16,4 @@ Things to fix:
 Nice to have:
 - Sliding underlines (currently these are static elements)
 - Hover feature on each news article
+
