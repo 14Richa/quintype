@@ -264,34 +264,3 @@
   color: white;
 }
 
-
-
-
-/*.custom-underline,
-.custom-underline:hover,
-.custom-underline:focus,
-.custom-underline:active {
-  text-decoration: none;
-}
-.temp::after {
-  content: "";
-  position: fixed;
-}
-
-
-.temp::after {
-  content:"";
-  top: 15%;
-  height: 12px !important;
-  width: 40%;
-  left: 30%;
-  background-color: black;
-    transition: 0.4s ease-out all .1s;
-}
-
-.temp:hover{
-  background-color: blue;
-  width: 90%;
-  left: 5%;
-    transition: 0.5s ease all;
-}*/
