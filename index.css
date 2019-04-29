@@ -230,6 +230,20 @@
   color: #ffffff;
   margin-top: 50px;
 }
+.Lin-Manuel-Miranda-s-caption {
+/*  width: 334px;
+  height: 160px;*/
+  font-family: Lato;
+  font-size: 24px;
+  font-weight: normal;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: 1.18;
+  letter-spacing: normal;
+  text-align: left;
+  color: #ffffff;
+  margin-top: 170px;
+}
 .carousel-caption {
     text-align: center;
     top: 50%;
